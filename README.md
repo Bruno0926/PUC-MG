@@ -20,6 +20,7 @@
 * [Trabalho Interdisciplinar 3](https://github.com/militaovitor01/TI3)
 * [Banco de Dados](https://github.com/Bruno0926/BD)
 * [Arquitetura de Computadores 2](https://github.com/Bruno0926/AC2)
+* [LP](https://github.com/Bruno0926/LP)
 
 ## Período 4
 * [Teoria dos Grafos e Computabilidade](https://github.com/militaovitor01/TGrafos)

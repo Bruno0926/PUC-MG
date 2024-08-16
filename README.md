@@ -16,8 +16,7 @@
 * [Trabalho Interdisciplinar 2](https://github.com/Bruno0926/TI2)
 
 ## Período 3
-* [Linguagens de Programação]()
-* [Trabalho Interdisciplinar 3](https://github.com/militaovitor01/TI3)
+* [Linguagens de Programação](https://github.com/Bruno0926/LP)
 * [Banco de Dados](https://github.com/Bruno0926/BD)
 * [Arquitetura de Computadores 2](https://github.com/Bruno0926/AC2)
 * [LP](https://github.com/Bruno0926/LP)

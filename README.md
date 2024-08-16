@@ -22,6 +22,5 @@
 * [LP](https://github.com/Bruno0926/LP)
 
 ## Período 4
-* [Teoria dos Grafos e Computabilidade](https://github.com/militaovitor01/TGrafos)
 * [Estatistica](https://github.com/Bruno0926/Estatistica)
 * [IA](https://github.com/Bruno0926/Intelog-ncia-Artificial)

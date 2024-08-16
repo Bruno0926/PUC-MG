@@ -24,3 +24,4 @@
 ## Período 4
 * [Teoria dos Grafos e Computabilidade](https://github.com/militaovitor01/TGrafos)
 * [Estatistica](https://github.com/Bruno0926/Estatistica)
+* [IA]([Estatistica](https://github.com/Bruno0926/Estatistica))

@@ -19,7 +19,6 @@
 * [Linguagens de Programação](https://github.com/Bruno0926/LP)
 * [Banco de Dados](https://github.com/Bruno0926/BD)
 * [Arquitetura de Computadores 2](https://github.com/Bruno0926/AC2)
-* [LP](https://github.com/Bruno0926/LP)
 
 ## Período 4
 * [Estatistica](https://github.com/Bruno0926/Estatistica)

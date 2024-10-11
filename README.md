@@ -14,6 +14,7 @@
 * [Algoritmos e Estruturas de Dados 2](https://github.com/Bruno0926/AEDS2)
 * [Arquitetura de Computadores 1](https://github.com/Bruno0926/AC1)
 * [Trabalho Interdisciplinar 2](https://github.com/Bruno0926/TI2)
+* [Engenharia de Software 1](https://github.com/Bruno0926/Engenharia-1.git)
 
 ## Período 3
 * [Linguagens de Programação](https://github.com/Bruno0926/LP)
